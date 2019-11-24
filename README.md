@@ -1,4 +1,4 @@
-# Lity 
+# Lity for WordPress
 **Contributors:** hatul  
 **Donate link:** https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4HTHWS3LGDDPJ  
 **Tags:** lity, lightbox, gallery, images 
@@ -6,7 +6,7 @@
 **Tested up to:** 5.3  
 **Stable tag:** 0.1  
 
-Lightweight, accessible and responsive lightbox.
+Lightweight, accessible and responsive lightbox based [lity](https://sorgalla.com/lity/).
 Without settings, install and get Lightbox for your images.
 
 
