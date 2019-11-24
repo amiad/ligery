@@ -6,13 +6,13 @@
 **Tested up to:** 5.3  
 **Stable tag:** 0.1  
 
-Lightweight, accessible and responsive lightbox based [lity](https://sorgalla.com/lity/).
+Lightweight, accessible and responsive lightbox.
 Without settings, install and get Lightbox for your images.
 
 
 ## Description 
 
-The plugin use Lity library for effect Lightbox for your images.
+The plugin use [Lity](https://sorgalla.com/lity/) library for effect Lightbox for your images.
 
 
 ## Installation 
