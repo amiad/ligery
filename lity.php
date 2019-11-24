@@ -2,7 +2,7 @@
 /*
 Plugin Name: Lity for WordPress
 Description: Lightweight, accessible and responsive lightbox for Wordpress.
-Plugin URI: http://hatul.info/lity
+Plugin URI: https://github.com/amiad/lity-for-wordpress
 Version: 0.1
 Author: Hatul
 Author URI: http://hatul.info
