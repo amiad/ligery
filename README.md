@@ -1,7 +1,7 @@
 # Lity for WordPress
 **Contributors:** hatul  
 **Donate link:** https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4HTHWS3LGDDPJ  
-**Tags:** lity, lightbox, gallery, images 
+**Tags:** lity, lightbox, gallery, images  
 **Requires at least:** 2.0  
 **Tested up to:** 5.3  
 **Stable tag:** 0.1  
