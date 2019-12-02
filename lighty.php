@@ -2,7 +2,7 @@
 /*
 Plugin Name: Lighty for WordPress
 Description: Lightweight, accessible and responsive lightbox for Wordpress.
-Plugin URI: https://github.com/amiad/lity-for-wordpress
+Plugin URI: https://github.com/amiad/lighty-for-wordpress
 Version: 0.1
 Author: Hatul
 Author URI: http://hatul.info
