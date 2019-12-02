@@ -1,7 +1,7 @@
 === Lity ===
 Contributors: hatul
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4HTHWS3LGDDPJ
-Tags: lity, lightbox, gallery, images
+Tags: lighty, lity, lightbox, gallery, images
 Requires at least: 2.0
 Tested up to: 5.3
 Stable tag: 0.1
@@ -15,7 +15,7 @@ The plugin use Lity library for effect Lightbox for your images.
 
 == Installation ==
 
-1. Upload `lity` directory to the `/wp-content/plugins/` directory
+1. Upload `lighty-for-wordpress` directory to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 * Or to install via Admin Panel.
