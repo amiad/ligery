@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Lighty for WordPress
-Description: Lightweight, accessible and responsive lightbox for Wordpress.
-Plugin URI: https://github.com/amiad/lighty-for-wordpress
+Plugin Name: Ligery
+Description: Lightweight, accessible and responsive lightbox for Wordpress based on Lity.
+Plugin URI: https://github.com/amiad/ligery
 Version: 0.1
 Author: Hatul
 Author URI: http://hatul.info
@@ -14,8 +14,8 @@ function lity_assets() {
     wp_enqueue_style('lity-css');
     wp_register_script('lity-js', plugins_url('js-lity/lity.min.js', __FILE__), array('jquery'));
     wp_enqueue_script('lity-js');
-    wp_register_script('wp-lity', plugins_url('wp-lity.js', __FILE__), array('lity-js'));
-    wp_enqueue_script('wp-lity');
+    wp_register_script('ligery', plugins_url('ligery.js', __FILE__), array('lity-js'));
+    wp_enqueue_script('ligery');
 }
 
 add_action('wp_enqueue_scripts', 'lity_assets');
