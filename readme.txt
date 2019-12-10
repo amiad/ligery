@@ -1,4 +1,4 @@
-=== Lity ===
+=== Ligery ===
 Contributors: hatul
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4HTHWS3LGDDPJ
 Tags: ligery, lity, lightbox, gallery, images
