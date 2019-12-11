@@ -6,10 +6,10 @@ Requires at least: 2.0
 Tested up to: 5.3
 Stable tag: 0.1
 
+== Description ==
+
 Lightweight, accessible and responsive lightbox based on Lity.
 Without settings, install and get Lightbox for your images.
-
-== Description ==
 
 The plugin use Lity library for effect Lightbox for your images.
 
